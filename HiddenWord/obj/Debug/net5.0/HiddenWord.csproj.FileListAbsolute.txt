@@ -1,0 +1,16 @@
+C:\Users\Thamires\source\repos\HiddenWord\bin\Debug\net5.0\HiddenWord.exe
+C:\Users\Thamires\source\repos\HiddenWord\bin\Debug\net5.0\HiddenWord.deps.json
+C:\Users\Thamires\source\repos\HiddenWord\bin\Debug\net5.0\HiddenWord.runtimeconfig.json
+C:\Users\Thamires\source\repos\HiddenWord\bin\Debug\net5.0\HiddenWord.runtimeconfig.dev.json
+C:\Users\Thamires\source\repos\HiddenWord\bin\Debug\net5.0\HiddenWord.dll
+C:\Users\Thamires\source\repos\HiddenWord\bin\Debug\net5.0\ref\HiddenWord.dll
+C:\Users\Thamires\source\repos\HiddenWord\bin\Debug\net5.0\HiddenWord.pdb
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\HiddenWord.csproj.AssemblyReference.cache
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\HiddenWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\HiddenWord.AssemblyInfoInputs.cache
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\HiddenWord.AssemblyInfo.cs
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\HiddenWord.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\HiddenWord.dll
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\ref\HiddenWord.dll
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\HiddenWord.pdb
+C:\Users\Thamires\source\repos\HiddenWord\obj\Debug\net5.0\HiddenWord.genruntimeconfig.cache
