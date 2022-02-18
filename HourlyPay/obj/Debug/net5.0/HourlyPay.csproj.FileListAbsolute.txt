@@ -1,0 +1,16 @@
+C:\Users\Thamires\source\repos\HourlyPay\bin\Debug\net5.0\HourlyPay.exe
+C:\Users\Thamires\source\repos\HourlyPay\bin\Debug\net5.0\HourlyPay.deps.json
+C:\Users\Thamires\source\repos\HourlyPay\bin\Debug\net5.0\HourlyPay.runtimeconfig.json
+C:\Users\Thamires\source\repos\HourlyPay\bin\Debug\net5.0\HourlyPay.runtimeconfig.dev.json
+C:\Users\Thamires\source\repos\HourlyPay\bin\Debug\net5.0\HourlyPay.dll
+C:\Users\Thamires\source\repos\HourlyPay\bin\Debug\net5.0\ref\HourlyPay.dll
+C:\Users\Thamires\source\repos\HourlyPay\bin\Debug\net5.0\HourlyPay.pdb
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\HourlyPay.csproj.AssemblyReference.cache
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\HourlyPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\HourlyPay.AssemblyInfoInputs.cache
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\HourlyPay.AssemblyInfo.cs
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\HourlyPay.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\HourlyPay.dll
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\ref\HourlyPay.dll
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\HourlyPay.pdb
+C:\Users\Thamires\source\repos\HourlyPay\obj\Debug\net5.0\HourlyPay.genruntimeconfig.cache
