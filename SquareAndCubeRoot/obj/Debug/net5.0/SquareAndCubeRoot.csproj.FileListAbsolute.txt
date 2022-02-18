@@ -1,0 +1,16 @@
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\bin\Debug\net5.0\SquareAndCubeRoot.exe
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\bin\Debug\net5.0\SquareAndCubeRoot.deps.json
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\bin\Debug\net5.0\SquareAndCubeRoot.runtimeconfig.json
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\bin\Debug\net5.0\SquareAndCubeRoot.runtimeconfig.dev.json
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\bin\Debug\net5.0\SquareAndCubeRoot.dll
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\bin\Debug\net5.0\ref\SquareAndCubeRoot.dll
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\bin\Debug\net5.0\SquareAndCubeRoot.pdb
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\SquareAndCubeRoot.csproj.AssemblyReference.cache
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\SquareAndCubeRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\SquareAndCubeRoot.AssemblyInfoInputs.cache
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\SquareAndCubeRoot.AssemblyInfo.cs
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\SquareAndCubeRoot.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\SquareAndCubeRoot.dll
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\ref\SquareAndCubeRoot.dll
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\SquareAndCubeRoot.pdb
+C:\Users\Thamires\source\repos\SquareAndCubeRoot\obj\Debug\net5.0\SquareAndCubeRoot.genruntimeconfig.cache

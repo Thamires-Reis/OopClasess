@@ -1,0 +1,16 @@
+C:\Users\Thamires\source\repos\IntegerMethod\bin\Debug\net5.0\IntegerMethod.exe
+C:\Users\Thamires\source\repos\IntegerMethod\bin\Debug\net5.0\IntegerMethod.deps.json
+C:\Users\Thamires\source\repos\IntegerMethod\bin\Debug\net5.0\IntegerMethod.runtimeconfig.json
+C:\Users\Thamires\source\repos\IntegerMethod\bin\Debug\net5.0\IntegerMethod.runtimeconfig.dev.json
+C:\Users\Thamires\source\repos\IntegerMethod\bin\Debug\net5.0\IntegerMethod.dll
+C:\Users\Thamires\source\repos\IntegerMethod\bin\Debug\net5.0\ref\IntegerMethod.dll
+C:\Users\Thamires\source\repos\IntegerMethod\bin\Debug\net5.0\IntegerMethod.pdb
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\IntegerMethod.csproj.AssemblyReference.cache
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\IntegerMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\IntegerMethod.AssemblyInfoInputs.cache
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\IntegerMethod.AssemblyInfo.cs
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\IntegerMethod.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\IntegerMethod.dll
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\ref\IntegerMethod.dll
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\IntegerMethod.pdb
+C:\Users\Thamires\source\repos\IntegerMethod\obj\Debug\net5.0\IntegerMethod.genruntimeconfig.cache
