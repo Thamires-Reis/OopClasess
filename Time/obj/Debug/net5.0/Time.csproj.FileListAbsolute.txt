@@ -1,0 +1,16 @@
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\Time.csproj.AssemblyReference.cache
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\Time.AssemblyInfoInputs.cache
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\Time.AssemblyInfo.cs
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\source\repos\Time\bin\Debug\net5.0\Time.exe
+C:\Users\Thamires\source\repos\Time\bin\Debug\net5.0\Time.deps.json
+C:\Users\Thamires\source\repos\Time\bin\Debug\net5.0\Time.runtimeconfig.json
+C:\Users\Thamires\source\repos\Time\bin\Debug\net5.0\Time.runtimeconfig.dev.json
+C:\Users\Thamires\source\repos\Time\bin\Debug\net5.0\Time.dll
+C:\Users\Thamires\source\repos\Time\bin\Debug\net5.0\ref\Time.dll
+C:\Users\Thamires\source\repos\Time\bin\Debug\net5.0\Time.pdb
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\Time.dll
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\ref\Time.dll
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\Time.pdb
+C:\Users\Thamires\source\repos\Time\obj\Debug\net5.0\Time.genruntimeconfig.cache
