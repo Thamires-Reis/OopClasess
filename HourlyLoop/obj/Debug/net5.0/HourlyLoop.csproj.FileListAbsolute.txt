@@ -1,0 +1,16 @@
+C:\Users\Thamires\source\repos\HourlyLoop\bin\Debug\net5.0\HourlyLoop.exe
+C:\Users\Thamires\source\repos\HourlyLoop\bin\Debug\net5.0\HourlyLoop.deps.json
+C:\Users\Thamires\source\repos\HourlyLoop\bin\Debug\net5.0\HourlyLoop.runtimeconfig.json
+C:\Users\Thamires\source\repos\HourlyLoop\bin\Debug\net5.0\HourlyLoop.runtimeconfig.dev.json
+C:\Users\Thamires\source\repos\HourlyLoop\bin\Debug\net5.0\HourlyLoop.dll
+C:\Users\Thamires\source\repos\HourlyLoop\bin\Debug\net5.0\ref\HourlyLoop.dll
+C:\Users\Thamires\source\repos\HourlyLoop\bin\Debug\net5.0\HourlyLoop.pdb
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\HourlyLoop.csproj.AssemblyReference.cache
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\HourlyLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\HourlyLoop.AssemblyInfoInputs.cache
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\HourlyLoop.AssemblyInfo.cs
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\HourlyLoop.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\HourlyLoop.dll
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\ref\HourlyLoop.dll
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\HourlyLoop.pdb
+C:\Users\Thamires\source\repos\HourlyLoop\obj\Debug\net5.0\HourlyLoop.genruntimeconfig.cache

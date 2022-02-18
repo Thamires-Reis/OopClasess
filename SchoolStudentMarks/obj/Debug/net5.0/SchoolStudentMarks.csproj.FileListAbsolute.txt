@@ -1,0 +1,16 @@
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\SchoolStudentMarks.csproj.AssemblyReference.cache
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\SchoolStudentMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\SchoolStudentMarks.AssemblyInfoInputs.cache
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\SchoolStudentMarks.AssemblyInfo.cs
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\SchoolStudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\source\repos\SchoolStudentMarks\bin\Debug\net5.0\SchoolStudentMarks.exe
+C:\Users\Thamires\source\repos\SchoolStudentMarks\bin\Debug\net5.0\SchoolStudentMarks.deps.json
+C:\Users\Thamires\source\repos\SchoolStudentMarks\bin\Debug\net5.0\SchoolStudentMarks.runtimeconfig.json
+C:\Users\Thamires\source\repos\SchoolStudentMarks\bin\Debug\net5.0\SchoolStudentMarks.runtimeconfig.dev.json
+C:\Users\Thamires\source\repos\SchoolStudentMarks\bin\Debug\net5.0\SchoolStudentMarks.dll
+C:\Users\Thamires\source\repos\SchoolStudentMarks\bin\Debug\net5.0\ref\SchoolStudentMarks.dll
+C:\Users\Thamires\source\repos\SchoolStudentMarks\bin\Debug\net5.0\SchoolStudentMarks.pdb
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\SchoolStudentMarks.dll
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\ref\SchoolStudentMarks.dll
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\SchoolStudentMarks.pdb
+C:\Users\Thamires\source\repos\SchoolStudentMarks\obj\Debug\net5.0\SchoolStudentMarks.genruntimeconfig.cache
